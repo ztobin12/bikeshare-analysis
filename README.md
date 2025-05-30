@@ -79,10 +79,8 @@ Refer to the notebook for detailed outputs and visualizations.
 └── requirements.txt          # Python dependencies
 ```
 
-## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-Your Name — [GitHub Profile](https://github.com/your-username)
+Zack Tobin — [GitHub Profile](https://github.com/ztobin12)
